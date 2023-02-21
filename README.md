@@ -1,5 +1,5 @@
 # LATIHAN2DPBO2023
-Saya Ade Mulyana NIM 2108799 mengerjakan soal Latihan1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Ade Mulyana NIM 2108799 mengerjakan soal Latihan2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
 ![latihan2](https://user-images.githubusercontent.com/100661834/220265485-9051530e-8bd2-4eac-ad0c-e2a68919b2f0.png)
